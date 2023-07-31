@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como crear un repositorio
+Este proyecto es una prueba de como crear un repositorio juangui ruiz
